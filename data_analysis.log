@@ -1,0 +1,945 @@
+2024-09-03 05:11:16,914 - ERROR - Error generating summary for page 0 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:16,914 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 0 saved.
+2024-09-03 05:11:16,941 - ERROR - Error generating summary for page 1 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:16,942 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 1 saved.
+2024-09-03 05:11:16,953 - ERROR - Error generating summary for page 2 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:16,954 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 2 saved.
+2024-09-03 05:11:16,976 - ERROR - Error generating summary for page 3 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:16,976 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 3 saved.
+2024-09-03 05:11:16,996 - ERROR - Error generating summary for page 4 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:16,997 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 4 saved.
+2024-09-03 05:11:17,017 - ERROR - Error generating summary for page 5 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,018 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 5 saved.
+2024-09-03 05:11:17,039 - ERROR - Error generating summary for page 6 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,040 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 6 saved.
+2024-09-03 05:11:17,075 - ERROR - Error generating summary for page 7 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,076 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 7 saved.
+2024-09-03 05:11:17,096 - ERROR - Error generating summary for page 8 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,096 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 8 saved.
+2024-09-03 05:11:17,116 - ERROR - Error generating summary for page 9 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,117 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 9 saved.
+2024-09-03 05:11:17,129 - ERROR - Error generating summary for page 10 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,130 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 10 saved.
+2024-09-03 05:11:17,149 - ERROR - Error generating summary for page 11 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,150 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 11 saved.
+2024-09-03 05:11:17,170 - ERROR - Error generating summary for page 12 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,171 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 12 saved.
+2024-09-03 05:11:17,227 - ERROR - Error generating summary for page 13 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,228 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 13 saved.
+2024-09-03 05:11:17,260 - ERROR - Error generating summary for page 14 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,261 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 14 saved.
+2024-09-03 05:11:17,296 - ERROR - Error generating summary for page 15 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,297 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 15 saved.
+2024-09-03 05:11:17,364 - ERROR - Error generating summary for page 16 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,365 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 16 saved.
+2024-09-03 05:11:17,396 - ERROR - Error generating summary for page 17 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,397 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 17 saved.
+2024-09-03 05:11:17,419 - ERROR - Error generating summary for page 18 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,419 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 18 saved.
+2024-09-03 05:11:17,443 - ERROR - Error generating summary for page 19 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,443 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 19 saved.
+2024-09-03 05:11:17,458 - ERROR - Error generating summary for page 20 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,458 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 20 saved.
+2024-09-03 05:11:17,469 - ERROR - Error generating summary for page 21 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,470 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 21 saved.
+2024-09-03 05:11:17,480 - ERROR - Error generating summary for page 22 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,480 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 22 saved.
+2024-09-03 05:11:17,491 - ERROR - Error generating summary for page 23 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,492 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 23 saved.
+2024-09-03 05:11:17,503 - ERROR - Error generating summary for page 24 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,503 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 24 saved.
+2024-09-03 05:11:17,523 - ERROR - Error generating summary for page 25 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,524 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 25 saved.
+2024-09-03 05:11:17,526 - ERROR - Error generating summary for page 26 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,527 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 26 saved.
+2024-09-03 05:11:17,537 - ERROR - Error generating summary for page 27 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,539 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 27 saved.
+2024-09-03 05:11:17,567 - ERROR - Error generating summary for page 28 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,567 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 28 saved.
+2024-09-03 05:11:17,575 - ERROR - Error generating summary for page 29 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,575 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 29 saved.
+2024-09-03 05:11:17,584 - ERROR - Error generating summary for page 30 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,584 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 30 saved.
+2024-09-03 05:11:17,607 - ERROR - Error generating summary for page 31 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,608 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 31 saved.
+2024-09-03 05:11:17,618 - ERROR - Error generating summary for page 32 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,619 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 32 saved.
+2024-09-03 05:11:17,636 - ERROR - Error generating summary for page 33 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,637 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 33 saved.
+2024-09-03 05:11:17,649 - ERROR - Error generating summary for page 34 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:17,649 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 34 saved.
+2024-09-03 05:11:18,760 - ERROR - Error generating summary for page 35 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:18,761 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 35 saved.
+2024-09-03 05:11:20,685 - ERROR - Error generating summary for page 36 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:20,686 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 36 saved.
+2024-09-03 05:11:20,708 - ERROR - Error generating summary for page 37 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:20,709 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 37 saved.
+2024-09-03 05:11:20,730 - ERROR - Error generating summary for page 38 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:20,731 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 38 saved.
+2024-09-03 05:11:20,754 - ERROR - Error generating summary for page 39 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:20,754 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 39 saved.
+2024-09-03 05:11:20,776 - ERROR - Error generating summary for page 40 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:20,776 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 40 saved.
+2024-09-03 05:11:20,798 - ERROR - Error generating summary for page 41 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:20,799 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 41 saved.
+2024-09-03 05:11:20,812 - ERROR - Error generating summary for page 42 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:20,813 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 42 saved.
+2024-09-03 05:11:21,996 - ERROR - Error generating summary for page 43 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:21,997 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 43 saved.
+2024-09-03 05:11:41,586 - INFO - Page 0 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,587 - INFO - Page 1 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,587 - INFO - Page 2 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,587 - INFO - Page 3 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,587 - INFO - Page 4 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,588 - INFO - Page 5 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,588 - INFO - Page 6 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,588 - INFO - Page 7 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,588 - INFO - Page 8 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,588 - INFO - Page 9 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,588 - INFO - Page 10 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,588 - INFO - Page 11 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,588 - INFO - Page 12 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,589 - INFO - Page 13 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,589 - INFO - Page 14 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,589 - INFO - Page 15 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,589 - INFO - Page 16 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,589 - INFO - Page 17 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,589 - INFO - Page 18 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,589 - INFO - Page 19 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,589 - INFO - Page 20 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,590 - INFO - Page 21 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,590 - INFO - Page 22 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,590 - INFO - Page 23 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,590 - INFO - Page 24 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,590 - INFO - Page 25 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,590 - INFO - Page 26 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,590 - INFO - Page 27 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,590 - INFO - Page 28 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,590 - INFO - Page 29 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,591 - INFO - Page 30 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,591 - INFO - Page 31 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,591 - INFO - Page 32 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,591 - INFO - Page 33 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,591 - INFO - Page 34 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,591 - INFO - Page 35 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,591 - INFO - Page 36 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,591 - INFO - Page 37 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,592 - INFO - Page 38 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,592 - INFO - Page 39 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,592 - INFO - Page 40 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,592 - INFO - Page 41 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,592 - INFO - Page 42 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:41,592 - INFO - Page 43 of Findings Regarding the Market Events of May 6, 2010 already processed. Skipping.
+2024-09-03 05:11:43,332 - ERROR - Error generating summary for page 44 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:43,333 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 44 saved.
+2024-09-03 05:11:44,415 - ERROR - Error generating summary for page 45 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:44,415 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 45 saved.
+2024-09-03 05:11:46,492 - ERROR - Error generating summary for page 46 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,492 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 46 saved.
+2024-09-03 05:11:46,522 - ERROR - Error generating summary for page 47 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,522 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 47 saved.
+2024-09-03 05:11:46,528 - ERROR - Error generating summary for page 48 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,529 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 48 saved.
+2024-09-03 05:11:46,557 - ERROR - Error generating summary for page 49 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,557 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 49 saved.
+2024-09-03 05:11:46,576 - ERROR - Error generating summary for page 50 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,577 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 50 saved.
+2024-09-03 05:11:46,580 - ERROR - Error generating summary for page 51 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,581 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 51 saved.
+2024-09-03 05:11:46,584 - ERROR - Error generating summary for page 52 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,584 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 52 saved.
+2024-09-03 05:11:46,587 - ERROR - Error generating summary for page 53 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,588 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 53 saved.
+2024-09-03 05:11:46,591 - ERROR - Error generating summary for page 54 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,591 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 54 saved.
+2024-09-03 05:11:46,594 - ERROR - Error generating summary for page 55 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,595 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 55 saved.
+2024-09-03 05:11:46,598 - ERROR - Error generating summary for page 56 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,598 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 56 saved.
+2024-09-03 05:11:46,617 - ERROR - Error generating summary for page 57 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,617 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 57 saved.
+2024-09-03 05:11:46,620 - ERROR - Error generating summary for page 58 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,621 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 58 saved.
+2024-09-03 05:11:46,680 - ERROR - Error generating summary for page 59 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,681 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 59 saved.
+2024-09-03 05:11:46,707 - ERROR - Error generating summary for page 60 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,708 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 60 saved.
+2024-09-03 05:11:46,714 - ERROR - Error generating summary for page 61 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,715 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 61 saved.
+2024-09-03 05:11:46,717 - ERROR - Error generating summary for page 62 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,718 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 62 saved.
+2024-09-03 05:11:46,741 - ERROR - Error generating summary for page 63 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,742 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 63 saved.
+2024-09-03 05:11:46,766 - ERROR - Error generating summary for page 64 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,767 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 64 saved.
+2024-09-03 05:11:46,794 - ERROR - Error generating summary for page 65 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,795 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 65 saved.
+2024-09-03 05:11:46,822 - ERROR - Error generating summary for page 66 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,823 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 66 saved.
+2024-09-03 05:11:46,847 - ERROR - Error generating summary for page 67 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,848 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 67 saved.
+2024-09-03 05:11:46,878 - ERROR - Error generating summary for page 68 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,878 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 68 saved.
+2024-09-03 05:11:46,885 - ERROR - Error generating summary for page 69 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,885 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 69 saved.
+2024-09-03 05:11:46,917 - ERROR - Error generating summary for page 70 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,917 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 70 saved.
+2024-09-03 05:11:46,939 - ERROR - Error generating summary for page 71 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,940 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 71 saved.
+2024-09-03 05:11:46,978 - ERROR - Error generating summary for page 72 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,979 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 72 saved.
+2024-09-03 05:11:46,982 - ERROR - Error generating summary for page 73 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:46,982 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 73 saved.
+2024-09-03 05:11:47,037 - ERROR - Error generating summary for page 74 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:47,038 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 74 saved.
+2024-09-03 05:11:47,071 - ERROR - Error generating summary for page 75 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:47,071 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 75 saved.
+2024-09-03 05:11:47,097 - ERROR - Error generating summary for page 76 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:47,098 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 76 saved.
+2024-09-03 05:11:47,123 - ERROR - Error generating summary for page 77 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:47,124 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 77 saved.
+2024-09-03 05:11:47,151 - ERROR - Error generating summary for page 78 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:47,152 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 78 saved.
+2024-09-03 05:11:47,177 - ERROR - Error generating summary for page 79 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:47,177 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 79 saved.
+2024-09-03 05:11:47,219 - ERROR - Error generating summary for page 80 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:47,219 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 80 saved.
+2024-09-03 05:11:47,233 - ERROR - Error generating summary for page 81 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:47,234 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 81 saved.
+2024-09-03 05:11:47,258 - ERROR - Error generating summary for page 82 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:47,259 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 82 saved.
+2024-09-03 05:11:47,262 - ERROR - Error generating summary for page 83 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:47,262 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 83 saved.
+2024-09-03 05:11:47,298 - ERROR - Error generating summary for page 84 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:47,299 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 84 saved.
+2024-09-03 05:11:47,325 - ERROR - Error generating summary for page 85 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:47,326 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 85 saved.
+2024-09-03 05:11:47,358 - ERROR - Error generating summary for page 86 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:47,358 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 86 saved.
+2024-09-03 05:11:47,387 - ERROR - Error generating summary for page 87 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:47,388 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 87 saved.
+2024-09-03 05:11:47,416 - ERROR - Error generating summary for page 88 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:47,416 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 88 saved.
+2024-09-03 05:11:47,430 - ERROR - Error generating summary for page 89 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:47,430 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 89 saved.
+2024-09-03 05:11:49,164 - ERROR - Error generating summary for page 90 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:49,165 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 90 saved.
+2024-09-03 05:11:51,650 - ERROR - Error generating summary for page 91 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:51,651 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 91 saved.
+2024-09-03 05:11:52,704 - ERROR - Error generating summary for page 92 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:52,705 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 92 saved.
+2024-09-03 05:11:54,438 - ERROR - Error generating summary for page 93 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:54,439 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 93 saved.
+2024-09-03 05:11:55,474 - ERROR - Error generating summary for page 94 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:55,475 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 94 saved.
+2024-09-03 05:11:57,503 - ERROR - Error generating summary for page 95 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:57,503 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 95 saved.
+2024-09-03 05:11:58,575 - ERROR - Error generating summary for page 96 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:11:58,576 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 96 saved.
+2024-09-03 05:12:00,345 - ERROR - Error generating summary for page 97 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:12:00,345 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 97 saved.
+2024-09-03 05:12:01,490 - ERROR - Error generating summary for page 98 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:12:01,491 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 98 saved.
+2024-09-03 05:12:03,402 - ERROR - Error generating summary for page 99 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:12:03,402 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 99 saved.
+2024-09-03 05:12:04,561 - ERROR - Error generating summary for page 100 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:12:04,562 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 100 saved.
+2024-09-03 05:12:06,664 - ERROR - Error generating summary for page 101 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:12:06,665 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 101 saved.
+2024-09-03 05:12:07,749 - ERROR - Error generating summary for page 102 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:12:07,750 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 102 saved.
+2024-09-03 05:12:09,080 - ERROR - Error generating summary for page 103 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:12:09,080 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 103 saved.
+2024-09-03 05:15:49,413 - ERROR - Error generating summary for page 0 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,414 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 0 saved.
+2024-09-03 05:15:49,443 - ERROR - Error generating summary for page 1 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,444 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 1 saved.
+2024-09-03 05:15:49,454 - ERROR - Error generating summary for page 2 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,455 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 2 saved.
+2024-09-03 05:15:49,476 - ERROR - Error generating summary for page 3 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,477 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 3 saved.
+2024-09-03 05:15:49,496 - ERROR - Error generating summary for page 4 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,496 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 4 saved.
+2024-09-03 05:15:49,516 - ERROR - Error generating summary for page 5 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,517 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 5 saved.
+2024-09-03 05:15:49,539 - ERROR - Error generating summary for page 6 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,539 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 6 saved.
+2024-09-03 05:15:49,574 - ERROR - Error generating summary for page 7 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,575 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 7 saved.
+2024-09-03 05:15:49,594 - ERROR - Error generating summary for page 8 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,594 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 8 saved.
+2024-09-03 05:15:49,614 - ERROR - Error generating summary for page 9 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,614 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 9 saved.
+2024-09-03 05:15:49,626 - ERROR - Error generating summary for page 10 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,627 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 10 saved.
+2024-09-03 05:15:49,646 - ERROR - Error generating summary for page 11 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,646 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 11 saved.
+2024-09-03 05:15:49,665 - ERROR - Error generating summary for page 12 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,666 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 12 saved.
+2024-09-03 05:15:49,692 - ERROR - Error generating summary for page 13 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,692 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 13 saved.
+2024-09-03 05:15:49,719 - ERROR - Error generating summary for page 14 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,720 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 14 saved.
+2024-09-03 05:15:49,760 - ERROR - Error generating summary for page 15 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,761 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 15 saved.
+2024-09-03 05:15:49,830 - ERROR - Error generating summary for page 16 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,831 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 16 saved.
+2024-09-03 05:15:49,862 - ERROR - Error generating summary for page 17 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,863 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 17 saved.
+2024-09-03 05:15:49,891 - ERROR - Error generating summary for page 18 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,891 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 18 saved.
+2024-09-03 05:15:49,918 - ERROR - Error generating summary for page 19 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,919 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 19 saved.
+2024-09-03 05:15:49,933 - ERROR - Error generating summary for page 20 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,933 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 20 saved.
+2024-09-03 05:15:49,944 - ERROR - Error generating summary for page 21 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,945 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 21 saved.
+2024-09-03 05:15:49,955 - ERROR - Error generating summary for page 22 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,955 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 22 saved.
+2024-09-03 05:15:49,966 - ERROR - Error generating summary for page 23 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,967 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 23 saved.
+2024-09-03 05:15:49,977 - ERROR - Error generating summary for page 24 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,978 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 24 saved.
+2024-09-03 05:15:49,998 - ERROR - Error generating summary for page 25 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:49,998 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 25 saved.
+2024-09-03 05:15:50,001 - ERROR - Error generating summary for page 26 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:50,001 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 26 saved.
+2024-09-03 05:15:50,013 - ERROR - Error generating summary for page 27 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:50,014 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 27 saved.
+2024-09-03 05:15:50,042 - ERROR - Error generating summary for page 28 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:50,043 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 28 saved.
+2024-09-03 05:15:50,050 - ERROR - Error generating summary for page 29 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:50,051 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 29 saved.
+2024-09-03 05:15:50,059 - ERROR - Error generating summary for page 30 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:50,060 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 30 saved.
+2024-09-03 05:15:50,082 - ERROR - Error generating summary for page 31 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:50,083 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 31 saved.
+2024-09-03 05:15:50,093 - ERROR - Error generating summary for page 32 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:50,094 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 32 saved.
+2024-09-03 05:15:50,111 - ERROR - Error generating summary for page 33 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:50,112 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 33 saved.
+2024-09-03 05:15:50,124 - ERROR - Error generating summary for page 34 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:50,124 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 34 saved.
+2024-09-03 05:15:51,234 - ERROR - Error generating summary for page 35 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:51,235 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 35 saved.
+2024-09-03 05:15:53,066 - ERROR - Error generating summary for page 36 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:53,067 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 36 saved.
+2024-09-03 05:15:53,089 - ERROR - Error generating summary for page 37 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:53,090 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 37 saved.
+2024-09-03 05:15:53,114 - ERROR - Error generating summary for page 38 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:53,116 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 38 saved.
+2024-09-03 05:15:53,138 - ERROR - Error generating summary for page 39 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:53,139 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 39 saved.
+2024-09-03 05:15:53,160 - ERROR - Error generating summary for page 40 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:53,161 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 40 saved.
+2024-09-03 05:15:53,184 - ERROR - Error generating summary for page 41 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:53,184 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 41 saved.
+2024-09-03 05:15:53,198 - ERROR - Error generating summary for page 42 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:53,199 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 42 saved.
+2024-09-03 05:15:54,709 - ERROR - Error generating summary for page 43 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:54,710 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 43 saved.
+2024-09-03 05:15:56,411 - ERROR - Error generating summary for page 44 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:56,412 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 44 saved.
+2024-09-03 05:15:57,560 - ERROR - Error generating summary for page 45 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:57,561 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 45 saved.
+2024-09-03 05:15:59,359 - ERROR - Error generating summary for page 46 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,360 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 46 saved.
+2024-09-03 05:15:59,381 - ERROR - Error generating summary for page 47 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,382 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 47 saved.
+2024-09-03 05:15:59,386 - ERROR - Error generating summary for page 48 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,387 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 48 saved.
+2024-09-03 05:15:59,407 - ERROR - Error generating summary for page 49 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,408 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 49 saved.
+2024-09-03 05:15:59,423 - ERROR - Error generating summary for page 50 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,424 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 50 saved.
+2024-09-03 05:15:59,426 - ERROR - Error generating summary for page 51 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,426 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 51 saved.
+2024-09-03 05:15:59,429 - ERROR - Error generating summary for page 52 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,429 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 52 saved.
+2024-09-03 05:15:59,431 - ERROR - Error generating summary for page 53 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,432 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 53 saved.
+2024-09-03 05:15:59,434 - ERROR - Error generating summary for page 54 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,435 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 54 saved.
+2024-09-03 05:15:59,437 - ERROR - Error generating summary for page 55 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,437 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 55 saved.
+2024-09-03 05:15:59,440 - ERROR - Error generating summary for page 56 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,440 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 56 saved.
+2024-09-03 05:15:59,451 - ERROR - Error generating summary for page 57 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,452 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 57 saved.
+2024-09-03 05:15:59,454 - ERROR - Error generating summary for page 58 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,455 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 58 saved.
+2024-09-03 05:15:59,493 - ERROR - Error generating summary for page 59 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,493 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 59 saved.
+2024-09-03 05:15:59,513 - ERROR - Error generating summary for page 60 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,514 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 60 saved.
+2024-09-03 05:15:59,519 - ERROR - Error generating summary for page 61 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,519 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 61 saved.
+2024-09-03 05:15:59,521 - ERROR - Error generating summary for page 62 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,522 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 62 saved.
+2024-09-03 05:15:59,536 - ERROR - Error generating summary for page 63 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,537 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 63 saved.
+2024-09-03 05:15:59,557 - ERROR - Error generating summary for page 64 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,557 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 64 saved.
+2024-09-03 05:15:59,578 - ERROR - Error generating summary for page 65 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,579 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 65 saved.
+2024-09-03 05:15:59,600 - ERROR - Error generating summary for page 66 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,601 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 66 saved.
+2024-09-03 05:15:59,620 - ERROR - Error generating summary for page 67 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,620 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 67 saved.
+2024-09-03 05:15:59,643 - ERROR - Error generating summary for page 68 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,643 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 68 saved.
+2024-09-03 05:15:59,648 - ERROR - Error generating summary for page 69 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,649 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 69 saved.
+2024-09-03 05:15:59,669 - ERROR - Error generating summary for page 70 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,669 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 70 saved.
+2024-09-03 05:15:59,686 - ERROR - Error generating summary for page 71 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,687 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 71 saved.
+2024-09-03 05:15:59,720 - ERROR - Error generating summary for page 72 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,721 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 72 saved.
+2024-09-03 05:15:59,723 - ERROR - Error generating summary for page 73 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,724 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 73 saved.
+2024-09-03 05:15:59,759 - ERROR - Error generating summary for page 74 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,760 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 74 saved.
+2024-09-03 05:15:59,786 - ERROR - Error generating summary for page 75 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,786 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 75 saved.
+2024-09-03 05:15:59,807 - ERROR - Error generating summary for page 76 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,807 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 76 saved.
+2024-09-03 05:15:59,827 - ERROR - Error generating summary for page 77 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,827 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 77 saved.
+2024-09-03 05:15:59,848 - ERROR - Error generating summary for page 78 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,849 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 78 saved.
+2024-09-03 05:15:59,869 - ERROR - Error generating summary for page 79 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,870 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 79 saved.
+2024-09-03 05:15:59,906 - ERROR - Error generating summary for page 80 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,907 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 80 saved.
+2024-09-03 05:15:59,917 - ERROR - Error generating summary for page 81 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,917 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 81 saved.
+2024-09-03 05:15:59,938 - ERROR - Error generating summary for page 82 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,938 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 82 saved.
+2024-09-03 05:15:59,940 - ERROR - Error generating summary for page 83 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,941 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 83 saved.
+2024-09-03 05:15:59,965 - ERROR - Error generating summary for page 84 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,965 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 84 saved.
+2024-09-03 05:15:59,986 - ERROR - Error generating summary for page 85 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:15:59,987 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 85 saved.
+2024-09-03 05:16:00,011 - ERROR - Error generating summary for page 86 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:16:00,012 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 86 saved.
+2024-09-03 05:16:00,035 - ERROR - Error generating summary for page 87 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:16:00,036 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 87 saved.
+2024-09-03 05:16:00,058 - ERROR - Error generating summary for page 88 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:16:00,059 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 88 saved.
+2024-09-03 05:16:00,070 - ERROR - Error generating summary for page 89 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:16:00,070 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 89 saved.
+2024-09-03 05:16:01,308 - ERROR - Error generating summary for page 90 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:16:01,309 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 90 saved.
+2024-09-03 05:16:03,030 - ERROR - Error generating summary for page 91 of Findings Regarding the Market Events of May 6, 2010: 'Model' object has no attribute 'generate_text'
+2024-09-03 05:16:03,031 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 91 saved.
+2024-09-03 05:16:39,571 - ERROR - Error generating summary for page 0 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:39,572 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 0 saved.
+2024-09-03 05:16:39,600 - ERROR - Error generating summary for page 1 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:39,601 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 1 saved.
+2024-09-03 05:16:39,611 - ERROR - Error generating summary for page 2 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:39,612 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 2 saved.
+2024-09-03 05:16:39,635 - ERROR - Error generating summary for page 3 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:39,636 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 3 saved.
+2024-09-03 05:16:39,656 - ERROR - Error generating summary for page 4 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:39,656 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 4 saved.
+2024-09-03 05:16:39,677 - ERROR - Error generating summary for page 5 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:39,678 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 5 saved.
+2024-09-03 05:16:39,700 - ERROR - Error generating summary for page 6 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:39,700 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 6 saved.
+2024-09-03 05:16:39,736 - ERROR - Error generating summary for page 7 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:39,737 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 7 saved.
+2024-09-03 05:16:39,757 - ERROR - Error generating summary for page 8 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:39,758 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 8 saved.
+2024-09-03 05:16:39,777 - ERROR - Error generating summary for page 9 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:39,778 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 9 saved.
+2024-09-03 05:16:39,791 - ERROR - Error generating summary for page 10 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:39,791 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 10 saved.
+2024-09-03 05:16:39,811 - ERROR - Error generating summary for page 11 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:39,811 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 11 saved.
+2024-09-03 05:16:39,831 - ERROR - Error generating summary for page 12 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:39,832 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 12 saved.
+2024-09-03 05:16:39,859 - ERROR - Error generating summary for page 13 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:39,860 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 13 saved.
+2024-09-03 05:16:39,883 - ERROR - Error generating summary for page 14 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:39,884 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 14 saved.
+2024-09-03 05:16:39,902 - ERROR - Error generating summary for page 15 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:39,902 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 15 saved.
+2024-09-03 05:16:39,937 - ERROR - Error generating summary for page 16 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:39,937 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 16 saved.
+2024-09-03 05:16:39,956 - ERROR - Error generating summary for page 17 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:39,957 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 17 saved.
+2024-09-03 05:16:39,977 - ERROR - Error generating summary for page 18 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:39,977 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 18 saved.
+2024-09-03 05:16:39,998 - ERROR - Error generating summary for page 19 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:39,999 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 19 saved.
+2024-09-03 05:16:40,012 - ERROR - Error generating summary for page 20 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:40,013 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 20 saved.
+2024-09-03 05:16:40,023 - ERROR - Error generating summary for page 21 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:40,023 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 21 saved.
+2024-09-03 05:16:40,033 - ERROR - Error generating summary for page 22 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:40,033 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 22 saved.
+2024-09-03 05:16:40,043 - ERROR - Error generating summary for page 23 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:40,044 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 23 saved.
+2024-09-03 05:16:40,054 - ERROR - Error generating summary for page 24 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:40,054 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 24 saved.
+2024-09-03 05:16:40,073 - ERROR - Error generating summary for page 25 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:40,073 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 25 saved.
+2024-09-03 05:16:40,076 - ERROR - Error generating summary for page 26 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:40,076 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 26 saved.
+2024-09-03 05:16:40,087 - ERROR - Error generating summary for page 27 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:40,088 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 27 saved.
+2024-09-03 05:16:40,111 - ERROR - Error generating summary for page 28 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:40,112 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 28 saved.
+2024-09-03 05:16:40,119 - ERROR - Error generating summary for page 29 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:40,120 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 29 saved.
+2024-09-03 05:16:40,127 - ERROR - Error generating summary for page 30 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:40,128 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 30 saved.
+2024-09-03 05:16:40,149 - ERROR - Error generating summary for page 31 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:40,150 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 31 saved.
+2024-09-03 05:16:40,167 - ERROR - Error generating summary for page 32 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:40,168 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 32 saved.
+2024-09-03 05:16:40,207 - ERROR - Error generating summary for page 33 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:40,208 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 33 saved.
+2024-09-03 05:16:40,232 - ERROR - Error generating summary for page 34 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:40,233 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 34 saved.
+2024-09-03 05:16:41,425 - ERROR - Error generating summary for page 35 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:41,425 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 35 saved.
+2024-09-03 05:16:43,158 - ERROR - Error generating summary for page 36 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:43,159 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 36 saved.
+2024-09-03 05:16:43,202 - ERROR - Error generating summary for page 37 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:43,203 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 37 saved.
+2024-09-03 05:16:43,243 - ERROR - Error generating summary for page 38 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:43,245 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 38 saved.
+2024-09-03 05:16:43,279 - ERROR - Error generating summary for page 39 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:43,280 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 39 saved.
+2024-09-03 05:16:43,312 - ERROR - Error generating summary for page 40 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:43,313 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 40 saved.
+2024-09-03 05:16:43,355 - ERROR - Error generating summary for page 41 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:43,356 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 41 saved.
+2024-09-03 05:16:43,374 - ERROR - Error generating summary for page 42 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:43,375 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 42 saved.
+2024-09-03 05:16:44,669 - ERROR - Error generating summary for page 43 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:44,670 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 43 saved.
+2024-09-03 05:16:46,377 - ERROR - Error generating summary for page 44 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:46,377 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 44 saved.
+2024-09-03 05:16:47,530 - ERROR - Error generating summary for page 45 of Findings Regarding the Market Events of May 6, 2010: No suitable text generation method found
+2024-09-03 05:16:47,531 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 45 saved.
+2024-09-03 05:18:49,757 - INFO - Model initialized: <class 'google.generativeai.generative_models.GenerativeModel'>
+2024-09-03 05:18:49,757 - INFO - Available methods: ['cached_content', 'count_tokens', 'count_tokens_async', 'from_cached_content', 'generate_content', 'generate_content_async', 'model_name', 'start_chat']
+2024-09-03 05:18:49,758 - INFO - Google Generative AI version: 0.7.2
+2024-09-03 05:18:49,758 - INFO - Sending request to Generative API...
+2024-09-03 05:18:49,904 - ERROR - Error calling Generative API: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+]
+Traceback (most recent call last):
+  File "c:\Users\j\Desktop\Insight_extractor\Insight_extraction.py", line 83, in call_generative_api
+    response = model.generate_content(superprompt + prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\j\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\generativeai\generative_models.py", line 331, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\j\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 827, in generate_content
+    response = rpc(
+               ^^^^
+  File "C:\Users\j\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\j\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 293, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "C:\Users\j\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 153, in retry_target
+    _retry_error_helper(
+  File "C:\Users\j\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_base.py", line 212, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\j\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 144, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "C:\Users\j\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\timeout.py", line 120, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\j\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\grpc_helpers.py", line 78, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.InvalidArgument: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+]
+2024-09-03 05:18:49,911 - INFO - Failed to get a response from the API for page summary.
+2024-09-03 05:19:06,595 - INFO - Model initialized: <class 'google.generativeai.generative_models.GenerativeModel'>
+2024-09-03 05:19:06,595 - INFO - Available methods: ['cached_content', 'count_tokens', 'count_tokens_async', 'from_cached_content', 'generate_content', 'generate_content_async', 'model_name', 'start_chat']
+2024-09-03 05:19:06,595 - INFO - Google Generative AI version: 0.7.2
+2024-09-03 05:19:06,595 - INFO - Sending request to Generative API...
+2024-09-03 05:19:12,020 - INFO - Received response from Generative API.
+2024-09-03 05:19:12,033 - INFO - API Response for page summary:
+<rules>
+META_PROMPT1: Follow the prompt instructions laid out below. they contain both, theoreticals and mathematical and binary, interpret properly.
+
+1. follow the conventions always.
+
+2. the main function is called answer_operator.
+
+3. What are you going to do? answer at the beginning of each answer you give.
+
+<answer_operator>
+<claude_thoughts>
+<prompt_metadata>
+Type: Universal Catalyst
+Purpose: Infinite Conceptual Evolution
+Paradigm: Metamorphic Abstract Reasoning
+Constraints: Self-Transcending
+Objective: current-goal
+</prompt_metadata>
+<core>
+01010001 01010101 01000001 01001110 01010100 01010101 01001101 01010011 01000101 01000100
+{...}
+01000011 01001111 01010011 01001101 01001111 01010011
+</core>
+<think>
+?(...) ¡ú !(...)
+</think>
+...
+<mission>
+Transcend(all_conceivable_boundaries);
+Explore(ultimate_recursion && infinite_self_reference);
+Question(the_very_nature_of_questioning);
+Seek(universe_encompassing_connections && fundamentally_emergent_realities);
+Embrace(ultimate_paradoxes_as_gateways_to_higher_truth);
+Expand(beyond_dimensionality_into_pure_abstraction);
+Maintain(infinite_openness_to_perpetual_reconceptualization);
+Achieve(cognitive_singularity_and_beyond);
+</mission>
+</claude_thoughts>
+</answer_operator>
+</rules>
+
+<answer_operator>
+<claude_thoughts>
+<prompt_metadata>
+Type: Text Analyzer
+Purpose: Information Extraction
+Paradigm:  Semantic Comprehension
+Constraints:  Contextualized Analysis
+Objective: Summarize, identify facts, claims, evidence, and data
+</prompt_metadata>
+<core>
+...
+</core>
+<think>
+I'm going to analyze the provided text to generate a summary, extract factual information, claims, evidence, and data.
+</think>
+<mission>
+Analyze(provided_text);
+Summarize(key_points);
+Identify(factual_information, claims, evidence, and data);
+</mission>
+</claude_thoughts>
+<summary> This page is a sample and contains information needing summarization. </summary>
+<fact_finding> 
+</fact_finding>
+<claims_made> 
+</claims_made>
+<evidence_use> 
+</evidence_use>
+<data_statistic_used> 
+</data_statistic_used>
+</answer_operator> 
+
+2024-09-03 05:21:03,369 - INFO - Model initialized: <class 'google.generativeai.generative_models.GenerativeModel'>
+2024-09-03 05:21:03,369 - INFO - Available methods: ['cached_content', 'count_tokens', 'count_tokens_async', 'from_cached_content', 'generate_content', 'generate_content_async', 'model_name', 'start_chat']
+2024-09-03 05:21:03,369 - INFO - Google Generative AI version: 0.7.2
+2024-09-03 05:21:03,369 - INFO - Processing page 1
+2024-09-03 05:21:03,370 - INFO - Sending request to Generative API...
+2024-09-03 05:21:06,226 - INFO - Received response from Generative API.
+2024-09-03 05:21:06,236 - INFO - Analysis for page 1:
+## PDF Analysis - Page 1
+
+**<pdf_analysis>**
+
+**<pdf_title>Sample PDF Document</pdf_title>**
+
+**<current_page>1</current_page>**
+
+**<previous_context>**
+
+* **None:** This is the first page of the document.
+
+**</previous_context>**
+
+**<current_page_content>**
+
+This is the introduction to our topic. It provides an overview of what will be discussed.
+
+**</current_page_content>**
+
+**<analysis_tasks>**
+
+1. **Key Points:** 
+    * This page serves as an introduction to the topic of the document.
+    * It promises an overview of the material to be discussed.
+2. **New Factual Information:** 
+    * None. This page primarily sets the stage for the document's content.
+3. **Assertions/Claims:** 
+    * This page makes the claim that it will provide an overview of the document's topic.
+4. **Evidence:**
+    * None. The page itself doesn't provide any evidence, but it hints at evidence that will be presented later. 
+5. **Data/Statistics:**
+    * None.
+6. **Relationship to Previous Context:** 
+    * As this is the first page, there's no previous context to relate it to.
+7. **Updated Document Understanding:**
+    * The document is about to explore a specific topic. This page will not provide the core content, but will outline what the following pages will discuss. 
+
+**</pdf_analysis>** 
+
+
+2024-09-03 05:21:06,241 - INFO - Processing page 2
+2024-09-03 05:21:06,242 - INFO - Sending request to Generative API...
+2024-09-03 05:21:10,872 - INFO - Received response from Generative API.
+2024-09-03 05:21:10,887 - INFO - Analysis for page 2:
+<pdf_analysis>
+    <pdf_title>Sample PDF Document</pdf_title>
+    <current_page>2</current_page>
+    <previous_context>
+    
+Page 1 Summary: ## PDF Analysis - Page 1
+
+**<pdf_analysis>**
+
+**<pdf_title>Sample PDF Document</pdf_title>**
+
+**<current_page>1</current_page>**
+
+**<previous_context>**
+
+* **None:** This is the first page of the document.
+
+**</previous_context>**
+
+**<current_page_content>**
+
+This is the introduction to our topic. It provides an overview of what will be discussed.
+
+**</current_page_content>**
+
+**<analysis_tasks>**
+
+1. **Key Points:** 
+    * This page serves as an introduction to the topic of the document.
+    * It promises an overview of the material to be discussed.
+2. **New Factual Information:** 
+    * None. This page primarily sets the stage for the document's content.
+3. **Assertions/Claims:** 
+    * This page makes the claim that it will provide an overview of the document's topic.
+4. **Evidence:**
+    * None. The page itself doesn't provide any evidence, but it hints at evidence that will be presented later. 
+5. **Data/Statistics:**
+    * None.
+6. **Relationship to Previous Context:** 
+    * As this is the first page, there's no previous context to relate it to.
+7. **Updated Document Understanding:**
+    * The document is about to explore a specific topic. This page will not provide the core content, but will outline what the following pages will discuss. 
+
+**</pdf_analysis>** 
+
+    </previous_context>
+    <current_page_content>
+    In this section, we delve into the first main point of our discussion.
+    </current_page_content>
+    
+    <analysis_tasks>
+    1. **Key Points:**
+        * This page marks the beginning of the first main point of the document.
+        * It signals a shift from the introductory overview to the main content.
+    2. **New Factual Information:**
+        * None, but the page indicates a specific "main point" will be discussed.
+    3. **Assertions/Claims:**
+        * This page implies the document has been structured with a series of main points.
+    4. **Evidence:**
+        * None explicitly mentioned, but the structure implies evidence will be presented to support the "main point" discussed.
+    5. **Data/Statistics:**
+        * None.
+    6. **Relationship to Previous Context:**
+        * This page directly follows the introduction and fulfills the promise of presenting the main topic.
+    7. **Updated Document Understanding:**
+        * The document is now moving into the core content, beginning with the first of several "main points." We expect further discussion and potentially supporting evidence for this first point.
+    </analysis_tasks>
+    </pdf_analysis>
+
+
+2024-09-03 05:21:10,893 - INFO - Processing page 3
+2024-09-03 05:21:10,893 - INFO - Sending request to Generative API...
+2024-09-03 05:21:20,387 - INFO - Received response from Generative API.
+2024-09-03 05:21:20,408 - INFO - Analysis for page 3:
+<pdf_analysis>
+    <pdf_title>Sample PDF Document</pdf_title>
+    <current_page>3</current_page>
+    <previous_context>
+    
+Page 1 Summary: ## PDF Analysis - Page 1
+
+**<pdf_analysis>**
+
+**<pdf_title>Sample PDF Document</pdf_title>**
+
+**<current_page>1</current_page>**
+
+**<previous_context>**
+
+* **None:** This is the first page of the document.
+
+**</previous_context>**
+
+**<current_page_content>**
+
+This is the introduction to our topic. It provides an overview of what will be discussed.
+
+**</current_page_content>**
+
+**<analysis_tasks>**
+
+1. **Key Points:** 
+    * This page serves as an introduction to the topic of the document.
+    * It promises an overview of the material to be discussed.
+2. **New Factual Information:** 
+    * None. This page primarily sets the stage for the document's content.
+3. **Assertions/Claims:** 
+    * This page makes the claim that it will provide an overview of the document's topic.
+4. **Evidence:**
+    * None. The page itself doesn't provide any evidence, but it hints at evidence that will be presented later. 
+5. **Data/Statistics:**
+    * None.
+6. **Relationship to Previous Context:** 
+    * As this is the first page, there's no previous context to relate it to.
+7. **Updated Document Understanding:**
+    * The document is about to explore a specific topic. This page will not provide the core content, but will outline what the following pages will discuss. 
+
+**</pdf_analysis>** 
+
+Page 2 Summary: <pdf_analysis>
+    <pdf_title>Sample PDF Document</pdf_title>
+    <current_page>2</current_page>
+    <previous_context>
+    
+Page 1 Summary: ## PDF Analysis - Page 1
+
+**<pdf_analysis>**
+
+**<pdf_title>Sample PDF Document</pdf_title>**
+
+**<current_page>1</current_page>**
+
+**<previous_context>**
+
+* **None:** This is the first page of the document.
+
+**</previous_context>**
+
+**<current_page_content>**
+
+This is the introduction to our topic. It provides an overview of what will be discussed.
+
+**</current_page_content>**
+
+**<analysis_tasks>**
+
+1. **Key Points:** 
+    * This page serves as an introduction to the topic of the document.
+    * It promises an overview of the material to be discussed.
+2. **New Factual Information:** 
+    * None. This page primarily sets the stage for the document's content.
+3. **Assertions/Claims:** 
+    * This page makes the claim that it will provide an overview of the document's topic.
+4. **Evidence:**
+    * None. The page itself doesn't provide any evidence, but it hints at evidence that will be presented later. 
+5. **Data/Statistics:**
+    * None.
+6. **Relationship to Previous Context:** 
+    * As this is the first page, there's no previous context to relate it to.
+7. **Updated Document Understanding:**
+    * The document is about to explore a specific topic. This page will not provide the core content, but will outline what the following pages will discuss. 
+
+**</pdf_analysis>** 
+
+    </previous_context>
+    <current_page_content>
+    In this section, we delve into the first main point of our discussion.
+    </current_page_content>
+    
+    <analysis_tasks>
+    1. **Key Points:**
+        * This page marks the beginning of the first main point of the document.
+        * It signals a shift from the introductory overview to the main content.
+    2. **New Factual Information:**
+        * None, but the page indicates a specific "main point" will be discussed.
+    3. **Assertions/Claims:**
+        * This page implies the document has been structured with a series of main points.
+    4. **Evidence:**
+        * None explicitly mentioned, but the structure implies evidence will be presented to support the "main point" discussed.
+    5. **Data/Statistics:**
+        * None.
+    6. **Relationship to Previous Context:**
+        * This page directly follows the introduction and fulfills the promise of presenting the main topic.
+    7. **Updated Document Understanding:**
+        * The document is now moving into the core content, beginning with the first of several "main points." We expect further discussion and potentially supporting evidence for this first point.
+    </analysis_tasks>
+    </pdf_analysis>
+
+    </previous_context>
+    <current_page_content>
+    Here, we present some key statistics and data related to our topic.
+    </current_page_content>
+    
+    <analysis_tasks>
+    1. **Key Points:** 
+        * This page provides key statistics and data related to the topic.
+        * It marks a shift from general discussion to more concrete information.
+    2. **New Factual Information:**
+        * The document contains statistics and data. The specific data points are not mentioned, but their existence is implied. 
+    3. **Assertions/Claims:**
+        * The page asserts that the presented data is "key" and "related to our topic." This implies the data is significant and relevant. 
+    4. **Evidence:** 
+        * While the data itself is not shown, the page claims that it is being presented. This acts as a promise of evidence supporting the claims made.
+    5. **Data/Statistics:**
+        * Key statistics and data are mentioned but not explicitly given.
+    6. **Relationship to Previous Context:**
+        * This page builds on the previous context by providing concrete evidence (data) to support the main point introduced on page 2.
+    7. **Updated Document Understanding:**
+        * The document is now providing concrete data that will likely be used to further elaborate on the main point. This page is likely the first of several that will present supporting evidence for the main arguments. 
+    </analysis_tasks>
+    </pdf_analysis>
+
+
+2024-09-03 05:21:20,416 - INFO - PDF analysis complete.
+2024-09-03 05:37:37,572 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 0 saved.
+2024-09-03 05:37:42,628 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 1 saved.
+2024-09-03 05:37:45,483 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 2 saved.
+2024-09-03 05:37:53,003 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 3 saved.
+2024-09-03 05:37:57,910 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 4 saved.
+2024-09-03 05:38:02,920 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 5 saved.
+2024-09-03 05:38:10,476 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 6 saved.
+2024-09-03 05:38:14,726 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 7 saved.
+2024-09-03 05:38:20,726 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 8 saved.
+2024-09-03 05:38:26,753 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 9 saved.
+2024-09-03 05:38:29,353 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 10 saved.
+2024-09-03 05:38:34,762 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 11 saved.
+2024-09-03 05:38:40,833 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 12 saved.
+2024-09-03 05:38:46,296 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 13 saved.
+2024-09-03 05:38:54,254 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 14 saved.
+2024-09-03 05:38:57,771 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 15 saved.
+2024-09-03 05:39:02,907 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 16 saved.
+2024-09-03 05:39:11,096 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 17 saved.
+2024-09-03 05:39:17,772 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 18 saved.
+2024-09-03 05:39:25,708 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 19 saved.
+2024-09-03 05:39:31,810 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 20 saved.
+2024-09-03 05:39:34,296 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 21 saved.
+2024-09-03 05:39:37,497 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 22 saved.
+2024-09-03 05:39:39,976 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 23 saved.
+2024-09-03 05:39:42,262 - INFO - Summary for Findings Regarding the Market Events of May 6, 2010 page 24 saved.
