@@ -1,18 +1,41 @@
+import subprocess
+import sys
 import os
+
+# Function to install required packages
+def install_required_packages():
+    required_packages = [
+        'PyPDF2',
+        'google-generativeai',
+        'tqdm'
+    ]
+    
+    for package in required_packages:
+        try:
+            subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+            print(f"Successfully installed {package}")
+        except subprocess.CalledProcessError:
+            print(f"Failed to install {package}. Please install it manually.")
+            sys.exit(1)
+
+# Install required packages
+install_required_packages()
+
+# Now import the required modules
 import logging
 import PyPDF2
 import google.generativeai as generativeai
-from tqdm import tqdm  # For progress bar
+from tqdm import tqdm
 from pathlib import Path
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s',
-                    handlers=[logging.FileHandler("data_analysis.log"), logging.StreamHandler()])
+                    handlers=[logging.FileHandler("data_analysis.log", encoding='utf-8'), logging.StreamHandler()])
 logger = logging.getLogger(__name__)
 
 # Load configuration
 CONFIG = {
-    "API_KEY": os.getenv("GENERATIVE_API_KEY", "####"),  # Replace with your Google Gemini API key
+    "API_KEY": os.getenv("GENERATIVE_API_KEY", "YOUR_API_KEY_HERE"),
 }
 
 # Configure Google Gemini API
@@ -23,17 +46,11 @@ def configure_api():
 # Initialize the Gemini API
 gemini_model = configure_api()
 
-# Function to check for existing summaries
 def check_existing_summaries(pdf_folder):
     """Check which pages already have summaries to avoid redundant processing."""
     existing_files = os.listdir(pdf_folder)
-    pages_with_summaries = [
-        int(file.split('-')[1].split('.')[0]) 
-        for file in existing_files if file.endswith('.md')
-    ]
-    return pages_with_summaries
+    return {int(file.split('-')[1].split('.')[0]) for file in existing_files if file.endswith('.md')}
 
-# Function to generate a summary using the Gemini model
 def summarize_page(pdf_title, page_number, page_text):
     """Generate a summary for a given page using the Gemini model."""
     prompt = f"""
@@ -55,28 +72,31 @@ def summarize_page(pdf_title, page_number, page_text):
         logger.error(f"Error generating summary for page {page_number} of {pdf_title}: {e}")
         return ""
 
-# Function to save summary as a markdown file
 def save_summary(pdf_folder, page_number, summary_text):
     """Save the summary as a markdown file."""
     filename = f"{pdf_folder}/page-{page_number}.md"
-    with open(filename, 'w') as f:
-        f.write(summary_text)
+    try:
+        with open(filename, 'w', encoding='utf-8') as f:
+            f.write(summary_text)
+    except Exception as e:
+        logger.error(f"Error saving summary for page {page_number}: {e}")
 
-# Main function to read PDF and generate summaries
 def main():
     # Get all PDF files in the current directory
-    pdf_files = [file for file in os.listdir('.') if file.endswith('.pdf')]
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    pdf_files = [file for file in os.listdir(script_dir) if file.endswith('.pdf')]
     
     for pdf_file in pdf_files:
         pdf_title = os.path.splitext(pdf_file)[0]
-        pdf_folder = f"./{pdf_title}"
+        pdf_folder = os.path.join(script_dir, pdf_title)
         
         # Create a folder for each PDF if it doesn't exist
         Path(pdf_folder).mkdir(exist_ok=True)
         
         pages_with_summaries = check_existing_summaries(pdf_folder)
         
-        with open(pdf_file, 'rb') as f:
+        pdf_path = os.path.join(script_dir, pdf_file)
+        with open(pdf_path, 'rb') as f:
             reader = PyPDF2.PdfReader(f)
             total_pages = len(reader.pages)
             
