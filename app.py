@@ -1,6 +1,12 @@
 import subprocess
 import sys
 import os
+import time
+import logging
+import PyPDF2
+import google.generativeai as generativeai
+from tqdm import tqdm
+from pathlib import Path
 
 def install_required_packages():
     required_packages = ['PyPDF2', 'google-generativeai', 'tqdm']
@@ -14,18 +20,12 @@ def install_required_packages():
 
 install_required_packages()
 
-import logging
-import PyPDF2
-import google.generativeai as generativeai
-from tqdm import tqdm
-from pathlib import Path
-
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s',
                     handlers=[logging.FileHandler("insight_generation.log", encoding='utf-8'), logging.StreamHandler()])
 logger = logging.getLogger(__name__)
 
 CONFIG = {
-    "API_KEY": os.getenv("GENERATIVE_API_KEY", "############"),
+    "API_KEY": os.getenv("GENERATIVE_API_KEY", "#################"),
 }
 
 def configure_api():
@@ -77,6 +77,8 @@ def generate_insights(pdf_title, page_number, page_text):
     2. Omit any section that would be empty.
     3. Ensure each bullet point is informative and can be understood independently.
     4. Focus on generating insights rather than just summarizing or analyzing.
+    5. Highlight all XML-like tags (e.g., <summary>) in markdown syntax for better visibility.
+    6. Balance readability with insightfulness in your response.
     """
     
     try:
@@ -90,43 +92,56 @@ def save_insights(pdf_folder, pdf_name, page_number, insights_text):
     filename = f"{pdf_folder}/{pdf_name}-page-{page_number}.md"
     try:
         with open(filename, 'w', encoding='utf-8') as f:
-            f.write(insights_text)
+            f.write(f"```xml\n{insights_text}\n```")
+        if not insights_text.strip():
+            os.remove(filename)
+            logger.warning(f"Removed empty file: {filename}")
     except Exception as e:
         logger.error(f"Error saving insights for {pdf_name} page {page_number}: {e}")
 
+def process_pdf(pdf_file, script_dir):
+    pdf_name = os.path.splitext(pdf_file)[0]
+    pdf_folder = os.path.join(script_dir, pdf_name)
+    
+    Path(pdf_folder).mkdir(exist_ok=True)
+    
+    pages_with_insights = check_existing_insights(pdf_folder, pdf_name)
+    
+    pdf_path = os.path.join(script_dir, pdf_file)
+    with open(pdf_path, 'rb') as f:
+        reader = PyPDF2.PdfReader(f)
+        total_pages = len(reader.pages)
+        
+        with tqdm(total=total_pages, desc=f"Processing {pdf_name}", unit="page") as pbar:
+            for page_number in range(total_pages):
+                if page_number not in pages_with_insights:
+                    page = reader.pages[page_number]
+                    page_text = page.extract_text()
+                    
+                    if page_text:
+                        insights_text = generate_insights(pdf_name, page_number, page_text)
+                        save_insights(pdf_folder, pdf_name, page_number, insights_text)
+                        logger.info(f"Insights for {pdf_name} page {page_number} saved.")
+                    else:
+                        logger.warning(f"No text found on page {page_number} of {pdf_name}. Skipping.")
+                else:
+                    logger.info(f"Page {page_number} of {pdf_name} already processed. Skipping.")
+                
+                pbar.update(1)
+
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    pdf_files = [file for file in os.listdir(script_dir) if file.endswith('.pdf')]
     
-    for pdf_file in pdf_files:
-        pdf_name = os.path.splitext(pdf_file)[0]
-        pdf_folder = os.path.join(script_dir, pdf_name)
+    while True:
+        pdf_files = [file for file in os.listdir(script_dir) if file.endswith('.pdf')]
         
-        Path(pdf_folder).mkdir(exist_ok=True)
+        if pdf_files:
+            for pdf_file in pdf_files:
+                process_pdf(pdf_file, script_dir)
+        else:
+            logger.info("No PDF files found. Waiting for new files...")
         
-        pages_with_insights = check_existing_insights(pdf_folder, pdf_name)
-        
-        pdf_path = os.path.join(script_dir, pdf_file)
-        with open(pdf_path, 'rb') as f:
-            reader = PyPDF2.PdfReader(f)
-            total_pages = len(reader.pages)
-            
-            with tqdm(total=total_pages, desc=f"Processing {pdf_name}", unit="page") as pbar:
-                for page_number in range(total_pages):
-                    if page_number not in pages_with_insights:
-                        page = reader.pages[page_number]
-                        page_text = page.extract_text()
-                        
-                        if page_text:
-                            insights_text = generate_insights(pdf_name, page_number, page_text)
-                            save_insights(pdf_folder, pdf_name, page_number, insights_text)
-                            logger.info(f"Insights for {pdf_name} page {page_number} saved.")
-                        else:
-                            logger.warning(f"No text found on page {page_number} of {pdf_name}. Skipping.")
-                    else:
-                        logger.info(f"Page {page_number} of {pdf_name} already processed. Skipping.")
-                    
-                    pbar.update(1)
+        time.sleep(60)  # Wait for 60 seconds before checking for new PDFs
 
 if __name__ == "__main__":
     main()
