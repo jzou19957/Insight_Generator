@@ -25,7 +25,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 CONFIG = {
-    "API_KEY": os.getenv("GENERATIVE_API_KEY", "###"),
+    "API_KEY": os.getenv("GENERATIVE_API_KEY", "############"),
 }
 
 def configure_api():
@@ -40,42 +40,43 @@ def check_existing_insights(pdf_folder, pdf_name):
 
 def generate_insights(pdf_title, page_number, page_text):
     prompt = f"""
-    Analyze the following text from {pdf_title}, page {page_number}, and provide structured insights:
+    Generate structured insights from the following text of {pdf_title}, page {page_number}:
 
     <text>
     {page_text}
     </text>
 
-    Generate a comprehensive analysis using the following structure:
+    Provide concise, standalone insights using the following structure. Use markdown syntax with bullet points for each section:
 
-    <key_insights>
-    Identify and explain 3-5 crucial points from the text. Critically evaluate their significance and potential implications.
-    </key_insights>
+    <summary>
+    • Summarize the key points of this page in 3-5 bullet points.
+    </summary>
 
-    <contextual_analysis>
-    Explain how this page's content relates to the broader themes of the document. Consider historical, cultural, or theoretical contexts that enhance understanding.
-    </contextual_analysis>
+    <fact_finding>
+    • List significant facts from the page. Use original quotes or polished quotes as appropriate.
+    • Ensure each fact has enough context to be understood independently.
+    </fact_finding>
 
-    <evidence_evaluation>
-    <facts>List key facts presented, assessing their reliability and relevance.</facts>
-    <data>Analyze any quantitative information, discussing its validity and implications.</data>
-    <sources>Evaluate the credibility and potential biases of any sources cited.</sources>
-    </evidence_evaluation>
+    <evidence_used>
+    • Paraphrase any evidence presented on this page.
+    • Each point should provide sufficient context to be understood on its own.
+    </evidence_used>
 
-    <critical_observations>
-    Identify any assumptions, logical flaws, or potential biases in the text. Discuss their impact on the overall argument or presentation.
-    </critical_observations>
+    <conclusions_made>
+    • List any conclusions or claims made on this page.
+    • Present each conclusion with adequate context for standalone clarity.
+    </conclusions_made>
 
-    <connections_and_patterns>
-    Highlight any connections to previous content or potential foreshadowing. Identify emerging patterns or themes.
-    </connections_and_patterns>
+    <sources_used>
+    • If any sources are cited or referenced, list them here.
+    • Provide enough context to understand the relevance of each source.
+    </sources_used>
 
-    <questions_and_implications>
-    <questions>Pose 2-3 thought-provoking questions arising from the content.</questions>
-    <implications>Discuss potential real-world applications or consequences of the information presented.</implications>
-    </questions_and_implications>
-
-    Ensure your analysis is thorough, balanced, and encourages deep contextual thinking.
+    Important:
+    1. Include only the sections that are relevant to this specific page's content.
+    2. Omit any section that would be empty.
+    3. Ensure each bullet point is informative and can be understood independently.
+    4. Focus on generating insights rather than just summarizing or analyzing.
     """
     
     try:
